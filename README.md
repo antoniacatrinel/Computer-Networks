@@ -4,4 +4,4 @@
 
 #### created in Cisco Packet Tracer 6.2sv
 
-Create a Packet Tracer solution in order to solve a given network topology.
+Create a Packet Tracer solution that solves a given network topology.
